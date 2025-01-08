@@ -3,6 +3,8 @@ This repository provides a comprehensive analysis of factors contributing to emp
 ___
 What if you know why employees leave a company and use that insight to build a better workplace? This project aims to answer that question by analyzing attrition data from PT. Indo Performance, a healthcare industry company facing a turnover rate of 16%—significantly above the industry average. With an ambitious goal of reducing turnover by 6% within 12 months, this analysis explores patterns, trends, and key factors driving attrition. It also provides data-driven recommendations to enhance retention, efficiency, and job satisfaction. Discover how data-driven strategies can bring meaningful change to the workplace!
 ___
+## Dashboard
+[Employee Attrition Dashboard](https://public.tableau.com/views/EmployeeAttritionAnalysis_17363214134160/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Dataset Description
 The dataset used for this analysis is **[Employee Attrition and Factors](https://www.kaggle.com/datasets/thedevastator/employee-attrition-and-factors/data)**. It includes various attributes related to employees' demographics, job roles, compensation, and work satisfaction, along with their attrition status.
